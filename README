@@ -1,0 +1,10 @@
+******************
+*Generic C Vector*
+******************
+Author: Xi Han <xihan94@ucla.edu>
+
+Version 0.1
+--
+* You can append a structure to the vector.
+* You can get the raw array of data from the vector. The returned array is
+  guaranteed to be terminated by zero.
